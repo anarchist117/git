@@ -1,4 +1,4 @@
-# Global settings
+# 1. Global settings
 ### Set username and email address in Git
 ```bash
 git config --global user.name "Your Name"
@@ -9,10 +9,10 @@ git config --global user.email "you@example.com"
 git config --list
 ```
 
-# Managing your personal access tokens
+# 2. Managing your personal access tokens
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#personal-access-tokens-classic
 
-# Create a new repository
+# 3. Create a new repository
 ```bash
 cd /home/user/project
 git init
