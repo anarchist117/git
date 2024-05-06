@@ -10,7 +10,7 @@ git config --list
 ```
 
 # 2. Managing your personal access tokens
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#personal-access-tokens-classic
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
 
 # 3. Create a new repository
 ```bash
