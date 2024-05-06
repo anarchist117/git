@@ -1,5 +1,5 @@
 # 1. Global config
-### Set username and email address in Git
+### Set username and email address
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
