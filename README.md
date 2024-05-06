@@ -6,13 +6,9 @@
 apt install git -y
 ```
 
-### 2. Set your username in Git
+### 2. Set your username and email address in Git
 ```bash
 git config --global user.name "Your Name"
-```
-
-### 3. Set your commit email address in Git
-```bash
 git config --global user.email "you@example.com"
 ```
 
