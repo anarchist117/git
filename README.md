@@ -1,10 +1,10 @@
-# 1. Global settings
+# 1. Global config
 ### Set username and email address in Git
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 ```
-### Check settings
+### Check config
 ```bash
 git config --list
 ```
