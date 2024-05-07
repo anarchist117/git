@@ -18,7 +18,6 @@ git branch -M main
 git remote add origin https://github.com/anarchist117/repository.git
 git push -u origin main
 ```
-### Status 
 ```bash
 git status
 ```
