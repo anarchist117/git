@@ -9,10 +9,7 @@ git config --global user.email "you@example.com"
 git config --list
 ```
 
-# 2. Managing your personal access tokens
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
-
-# 3. Create a new repository
+# 2. Create a new repository
 ```bash
 cd /home/user/project
 git init
@@ -26,3 +23,5 @@ git push -u origin main
 ```bash
 git status
 ```
+# 3. Managing personal access tokens
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
